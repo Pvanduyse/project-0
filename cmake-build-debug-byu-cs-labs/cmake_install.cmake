@@ -1,4 +1,4 @@
-# Install script for directory: /tmp/tmp.t91jay6tIx
+# Install script for directory: /users/guest/p/pclavd/CS 236/project-0
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/tmp/tmp.t91jay6tIx/cmake-build-debug-byu-cs-labs/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/users/guest/p/pclavd/CS 236/project-0/cmake-build-debug-byu-cs-labs/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

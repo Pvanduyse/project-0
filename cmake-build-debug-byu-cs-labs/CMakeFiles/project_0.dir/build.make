@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /tmp/tmp.t91jay6tIx
+CMAKE_SOURCE_DIR = "/users/guest/p/pclavd/CS 236/project-0"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /tmp/tmp.t91jay6tIx/cmake-build-debug-byu-cs-labs
+CMAKE_BINARY_DIR = "/users/guest/p/pclavd/CS 236/project-0/cmake-build-debug-byu-cs-labs"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/project_0.dir/depend.make
@@ -59,81 +59,81 @@ include CMakeFiles/project_0.dir/flags.make
 
 CMakeFiles/project_0.dir/Book.cpp.o: CMakeFiles/project_0.dir/flags.make
 CMakeFiles/project_0.dir/Book.cpp.o: ../Book.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/tmp/tmp.t91jay6tIx/cmake-build-debug-byu-cs-labs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/project_0.dir/Book.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/project_0.dir/Book.cpp.o -c /tmp/tmp.t91jay6tIx/Book.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/users/guest/p/pclavd/CS 236/project-0/cmake-build-debug-byu-cs-labs/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/project_0.dir/Book.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/project_0.dir/Book.cpp.o -c "/users/guest/p/pclavd/CS 236/project-0/Book.cpp"
 
 CMakeFiles/project_0.dir/Book.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project_0.dir/Book.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /tmp/tmp.t91jay6tIx/Book.cpp > CMakeFiles/project_0.dir/Book.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/users/guest/p/pclavd/CS 236/project-0/Book.cpp" > CMakeFiles/project_0.dir/Book.cpp.i
 
 CMakeFiles/project_0.dir/Book.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project_0.dir/Book.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /tmp/tmp.t91jay6tIx/Book.cpp -o CMakeFiles/project_0.dir/Book.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/users/guest/p/pclavd/CS 236/project-0/Book.cpp" -o CMakeFiles/project_0.dir/Book.cpp.s
 
 CMakeFiles/project_0.dir/BookCreator.cpp.o: CMakeFiles/project_0.dir/flags.make
 CMakeFiles/project_0.dir/BookCreator.cpp.o: ../BookCreator.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/tmp/tmp.t91jay6tIx/cmake-build-debug-byu-cs-labs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/project_0.dir/BookCreator.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/project_0.dir/BookCreator.cpp.o -c /tmp/tmp.t91jay6tIx/BookCreator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/users/guest/p/pclavd/CS 236/project-0/cmake-build-debug-byu-cs-labs/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/project_0.dir/BookCreator.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/project_0.dir/BookCreator.cpp.o -c "/users/guest/p/pclavd/CS 236/project-0/BookCreator.cpp"
 
 CMakeFiles/project_0.dir/BookCreator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project_0.dir/BookCreator.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /tmp/tmp.t91jay6tIx/BookCreator.cpp > CMakeFiles/project_0.dir/BookCreator.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/users/guest/p/pclavd/CS 236/project-0/BookCreator.cpp" > CMakeFiles/project_0.dir/BookCreator.cpp.i
 
 CMakeFiles/project_0.dir/BookCreator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project_0.dir/BookCreator.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /tmp/tmp.t91jay6tIx/BookCreator.cpp -o CMakeFiles/project_0.dir/BookCreator.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/users/guest/p/pclavd/CS 236/project-0/BookCreator.cpp" -o CMakeFiles/project_0.dir/BookCreator.cpp.s
 
 CMakeFiles/project_0.dir/BookListCreator.cpp.o: CMakeFiles/project_0.dir/flags.make
 CMakeFiles/project_0.dir/BookListCreator.cpp.o: ../BookListCreator.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/tmp/tmp.t91jay6tIx/cmake-build-debug-byu-cs-labs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/project_0.dir/BookListCreator.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/project_0.dir/BookListCreator.cpp.o -c /tmp/tmp.t91jay6tIx/BookListCreator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/users/guest/p/pclavd/CS 236/project-0/cmake-build-debug-byu-cs-labs/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/project_0.dir/BookListCreator.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/project_0.dir/BookListCreator.cpp.o -c "/users/guest/p/pclavd/CS 236/project-0/BookListCreator.cpp"
 
 CMakeFiles/project_0.dir/BookListCreator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project_0.dir/BookListCreator.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /tmp/tmp.t91jay6tIx/BookListCreator.cpp > CMakeFiles/project_0.dir/BookListCreator.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/users/guest/p/pclavd/CS 236/project-0/BookListCreator.cpp" > CMakeFiles/project_0.dir/BookListCreator.cpp.i
 
 CMakeFiles/project_0.dir/BookListCreator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project_0.dir/BookListCreator.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /tmp/tmp.t91jay6tIx/BookListCreator.cpp -o CMakeFiles/project_0.dir/BookListCreator.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/users/guest/p/pclavd/CS 236/project-0/BookListCreator.cpp" -o CMakeFiles/project_0.dir/BookListCreator.cpp.s
 
 CMakeFiles/project_0.dir/Info.cpp.o: CMakeFiles/project_0.dir/flags.make
 CMakeFiles/project_0.dir/Info.cpp.o: ../Info.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/tmp/tmp.t91jay6tIx/cmake-build-debug-byu-cs-labs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/project_0.dir/Info.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/project_0.dir/Info.cpp.o -c /tmp/tmp.t91jay6tIx/Info.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/users/guest/p/pclavd/CS 236/project-0/cmake-build-debug-byu-cs-labs/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/project_0.dir/Info.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/project_0.dir/Info.cpp.o -c "/users/guest/p/pclavd/CS 236/project-0/Info.cpp"
 
 CMakeFiles/project_0.dir/Info.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project_0.dir/Info.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /tmp/tmp.t91jay6tIx/Info.cpp > CMakeFiles/project_0.dir/Info.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/users/guest/p/pclavd/CS 236/project-0/Info.cpp" > CMakeFiles/project_0.dir/Info.cpp.i
 
 CMakeFiles/project_0.dir/Info.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project_0.dir/Info.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /tmp/tmp.t91jay6tIx/Info.cpp -o CMakeFiles/project_0.dir/Info.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/users/guest/p/pclavd/CS 236/project-0/Info.cpp" -o CMakeFiles/project_0.dir/Info.cpp.s
 
 CMakeFiles/project_0.dir/Library.cpp.o: CMakeFiles/project_0.dir/flags.make
 CMakeFiles/project_0.dir/Library.cpp.o: ../Library.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/tmp/tmp.t91jay6tIx/cmake-build-debug-byu-cs-labs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/project_0.dir/Library.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/project_0.dir/Library.cpp.o -c /tmp/tmp.t91jay6tIx/Library.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/users/guest/p/pclavd/CS 236/project-0/cmake-build-debug-byu-cs-labs/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/project_0.dir/Library.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/project_0.dir/Library.cpp.o -c "/users/guest/p/pclavd/CS 236/project-0/Library.cpp"
 
 CMakeFiles/project_0.dir/Library.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project_0.dir/Library.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /tmp/tmp.t91jay6tIx/Library.cpp > CMakeFiles/project_0.dir/Library.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/users/guest/p/pclavd/CS 236/project-0/Library.cpp" > CMakeFiles/project_0.dir/Library.cpp.i
 
 CMakeFiles/project_0.dir/Library.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project_0.dir/Library.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /tmp/tmp.t91jay6tIx/Library.cpp -o CMakeFiles/project_0.dir/Library.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/users/guest/p/pclavd/CS 236/project-0/Library.cpp" -o CMakeFiles/project_0.dir/Library.cpp.s
 
 CMakeFiles/project_0.dir/main.cpp.o: CMakeFiles/project_0.dir/flags.make
 CMakeFiles/project_0.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/tmp/tmp.t91jay6tIx/cmake-build-debug-byu-cs-labs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/project_0.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/project_0.dir/main.cpp.o -c /tmp/tmp.t91jay6tIx/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/users/guest/p/pclavd/CS 236/project-0/cmake-build-debug-byu-cs-labs/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/project_0.dir/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/project_0.dir/main.cpp.o -c "/users/guest/p/pclavd/CS 236/project-0/main.cpp"
 
 CMakeFiles/project_0.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project_0.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /tmp/tmp.t91jay6tIx/main.cpp > CMakeFiles/project_0.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/users/guest/p/pclavd/CS 236/project-0/main.cpp" > CMakeFiles/project_0.dir/main.cpp.i
 
 CMakeFiles/project_0.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project_0.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /tmp/tmp.t91jay6tIx/main.cpp -o CMakeFiles/project_0.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/users/guest/p/pclavd/CS 236/project-0/main.cpp" -o CMakeFiles/project_0.dir/main.cpp.s
 
 # Object files for target project_0
 project_0_OBJECTS = \
@@ -155,7 +155,7 @@ project_0: CMakeFiles/project_0.dir/Library.cpp.o
 project_0: CMakeFiles/project_0.dir/main.cpp.o
 project_0: CMakeFiles/project_0.dir/build.make
 project_0: CMakeFiles/project_0.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/tmp/tmp.t91jay6tIx/cmake-build-debug-byu-cs-labs/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable project_0"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/users/guest/p/pclavd/CS 236/project-0/cmake-build-debug-byu-cs-labs/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable project_0"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/project_0.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -168,6 +168,6 @@ CMakeFiles/project_0.dir/clean:
 .PHONY : CMakeFiles/project_0.dir/clean
 
 CMakeFiles/project_0.dir/depend:
-	cd /tmp/tmp.t91jay6tIx/cmake-build-debug-byu-cs-labs && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /tmp/tmp.t91jay6tIx /tmp/tmp.t91jay6tIx /tmp/tmp.t91jay6tIx/cmake-build-debug-byu-cs-labs /tmp/tmp.t91jay6tIx/cmake-build-debug-byu-cs-labs /tmp/tmp.t91jay6tIx/cmake-build-debug-byu-cs-labs/CMakeFiles/project_0.dir/DependInfo.cmake --color=$(COLOR)
+	cd "/users/guest/p/pclavd/CS 236/project-0/cmake-build-debug-byu-cs-labs" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/users/guest/p/pclavd/CS 236/project-0" "/users/guest/p/pclavd/CS 236/project-0" "/users/guest/p/pclavd/CS 236/project-0/cmake-build-debug-byu-cs-labs" "/users/guest/p/pclavd/CS 236/project-0/cmake-build-debug-byu-cs-labs" "/users/guest/p/pclavd/CS 236/project-0/cmake-build-debug-byu-cs-labs/CMakeFiles/project_0.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/project_0.dir/depend
 
